@@ -1,0 +1,21 @@
+.row p {
+  color: red;
+}
+.container {
+  margin-top:80px;
+  margin-bottom: -50px;
+}
+
+body {
+  background-color: lightyellow;
+}
+
+img {
+  width: 300px;
+  height: 300px;
+}
+
+.panel-title {
+  font-weight: 800;
+  font-size: 60px;
+}
