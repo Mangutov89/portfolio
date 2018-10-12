@@ -22,6 +22,10 @@ body {
   background-image: url("https://sites.google.com/site/unit3digportfolio/_/rsrc/1429874740297/b-designs-for-the-digital-portfolio/4-assets-and-their-sources/beautiful-simple-english-words-wallpapers.jpg");
 }
 
+span {
+  color:red;
+}
+
 h2 {
   font: arial;
   text-align: center;
