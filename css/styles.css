@@ -1,5 +1,35 @@
 .row p {
-  color: red;
+  color: #6A65FF;
+}
+
+.panel-danger {
+  background-color: #f5fffa;
+}
+
+li {
+  color: #6A65FF;
+}
+
+#hello {
+  height: 350px;
+}
+
+h1 strong {
+font-size: 90px;
+}
+
+body {
+  background-image: url("https://sites.google.com/site/unit3digportfolio/_/rsrc/1429874740297/b-designs-for-the-digital-portfolio/4-assets-and-their-sources/beautiful-simple-english-words-wallpapers.jpg");
+}
+
+h2 {
+  font: arial;
+  text-align: center;
+}
+
+img {
+  width: 300px;
+  height: 300px;
 }
 
 .container {
@@ -8,43 +38,15 @@
   padding: 10px;
 }
 
-img {
-  width: 300px;
-  height: 300px;
-}
-
 .panel-title {
   font-weight: 800;
   font-size: 50px;
   font-style: italic;
 }
 
-h2 {
-  font: arial;
-}
-
-body {
-  background-image: url("https://sites.google.com/site/unit3digportfolio/_/rsrc/1429874740297/b-designs-for-the-digital-portfolio/4-assets-and-their-sources/beautiful-simple-english-words-wallpapers.jpg");
-}
-
-
-.panel-danger {
-  background-color: #f5fffa;
-}
-
 .link {
   font-size: 45px;
   font-weight: bolder;
   color: #14a76c;
-}
-
-li {
-  color: red;
-}
-h1 strong {
-font-size: 90px;
-}
-
-#hello {
-  height: 347px;
+  float: right;
 }
