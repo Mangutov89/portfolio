@@ -1,13 +1,11 @@
 .row p {
   color: red;
 }
+
 .container {
   margin-top:80px;
   margin-bottom: -50px;
-}
-
-body {
-  background-color: lightyellow;
+  padding: 10px;
 }
 
 img {
@@ -17,5 +15,36 @@ img {
 
 .panel-title {
   font-weight: 800;
-  font-size: 60px;
+  font-size: 50px;
+  font-style: italic;
+}
+
+h2 {
+  font: arial;
+}
+
+body {
+  background-image: url("https://sites.google.com/site/unit3digportfolio/_/rsrc/1429874740297/b-designs-for-the-digital-portfolio/4-assets-and-their-sources/beautiful-simple-english-words-wallpapers.jpg");
+}
+
+
+.panel-danger {
+  background-color: #f5fffa;
+}
+
+.link {
+  font-size: 45px;
+  font-weight: bolder;
+  color: #14a76c;
+}
+
+li {
+  color: red;
+}
+h1 strong {
+font-size: 90px;
+}
+
+#hello {
+  height: 347px;
 }
